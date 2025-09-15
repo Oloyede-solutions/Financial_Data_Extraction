@@ -21,4 +21,7 @@ def transformations(df:pd.DataFrame):
   """
 
 
-def load_or_wwrite_data()
+def load_or_wwrite_data():
+  """
+  load processed data into the final destination
+  """
