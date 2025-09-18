@@ -1,1 +1,3 @@
-financial_venv
+financial_venv/
+.ipynb
+.env
